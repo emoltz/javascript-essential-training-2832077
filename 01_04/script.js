@@ -2,7 +2,7 @@
  * Create a Backpack object, populate some HTML to display its properties.
  */
 
-// Single line comment
+// Single line comment - woo!
 
 /* Multi-line comment
 See! this line is also commented out! */
