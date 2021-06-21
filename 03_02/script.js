@@ -2,6 +2,7 @@
 const backpack = {
   name: "Everyday Backpack",
   volume: 30,
+  secretVar: "hehe",
   color: "grey",
   pocketNum: 15,
   strapLength: {
