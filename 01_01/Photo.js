@@ -76,3 +76,5 @@ Photo.propTypes = {
 };
 
 export default Photo;
+
+//this is another comment
