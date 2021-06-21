@@ -2,7 +2,6 @@
  * Create a Backpack object, populate some HTML to display its properties.
  */
 import backpack from "./backpack.js";
-
 const markup = (backpack) => {
   return `
   <div>
