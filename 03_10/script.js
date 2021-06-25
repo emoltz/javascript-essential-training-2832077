@@ -45,5 +45,7 @@ const everydayPack = new Backpack(
   false
 );
 
+const anotherPack = new Backpack("I am the backpack", 30, "pink");
 console.log("The everydayPack object:", everydayPack);
 console.log("The pocketNum value:", everydayPack.pocketNum);
+console.log("The pocketNum value:", anotherPack.name);
