@@ -21,4 +21,8 @@ const backpack = {
   },
 };
 
-console.log("The backpack object:", backpack);
+console.log("The backpack object: ", backpack);
+console.log("The pocketNum value: ", backpack.pocketNum);
+// eslint-disable-next-line no-unused-vars
+var query = "pocketNum";
+console.log(backpack[query]);
