@@ -35,5 +35,11 @@ class Backpack {
     return daysSinceAcquired;
   }
 }
+const rightNow = new Date();
+const date = new Date("June 25, 2021"){
+  let val = Math.floor(rightNow);
+}
+console.log("right now, it is ", rightNow);
+console.log("date: ", date);
 
 export default Backpack;
