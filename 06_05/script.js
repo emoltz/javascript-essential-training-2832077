@@ -8,7 +8,7 @@ let color = "purple";
 document.querySelector(".left").style.backgroundColor = color;
 document.querySelector(".left .color-value").innerHTML = color;
 
-color = "skyblue";
+color = "blue";
 
 function headingColor() {
   let color = "blue";
